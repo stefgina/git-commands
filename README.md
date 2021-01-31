@@ -1,6 +1,6 @@
 # Git Commands
 
-There are 3 possible scenarios of command-sets.
+Possible common scenarios of command-sets:
 
 1. contribute to repo
 2. start a repo and publish on github
