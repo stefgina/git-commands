@@ -49,7 +49,7 @@ git add README.md
 # take a snapshot of the staging area
 git commit -m "add README to initial commit"
 
-# provide the path for the repository you created on github
+# provide the path for the repository you created on github (you must create the repository on github website first!!)
 git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
 
 # push changes to github
