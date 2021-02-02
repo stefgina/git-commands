@@ -52,7 +52,8 @@ git commit -m "add README to initial commit"
 # provide the path for the repository you created on github (you must create the repository on github website first!!)
 git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
 
-# push changes to github
+# push changes to github.
+# if that fails you should propably change main to master, since thats the old way of doing it.
 git push --set-upstream origin main
 ```
 
