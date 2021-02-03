@@ -2,7 +2,7 @@
 
 <img src="https://github.com/stefgina/git-commands/blob/main/git.png" height=110 width=320>
 
-Possible common scenarios of command sets:
+Most usual command sets:
 
 1. contribute to repo
 2. start a repo and publish on github
