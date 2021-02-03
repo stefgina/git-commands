@@ -1,6 +1,6 @@
 # Git Commands
 
-<img src="https://github.com/stefgina/git-commands/blob/main/git.png" height=110 width=300>
+<img src="https://github.com/stefgina/git-commands/blob/main/git.png" height=110 width=320>
 
 Possible common scenarios of command sets:
 
