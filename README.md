@@ -83,3 +83,12 @@ git commit -m "edit file1"
 # push changes to github
 git push
 ```
+
+## 4. Random Sets
+```
+# delete ds store
+find . -name ".DS_Store" -delete
+
+# delete hidden folder
+rm -rf .hiddenfolder
+```
