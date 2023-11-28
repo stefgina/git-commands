@@ -91,4 +91,7 @@ find . -name ".DS_Store" -delete
 
 # delete hidden folder
 rm -rf .hiddenfolder
+
+# todo more rans
+
 ```
